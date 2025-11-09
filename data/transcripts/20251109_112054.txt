@@ -1,0 +1,22 @@
+AI Agent: I apologize, I'm having technical difficulties. Thank you for your time.
+
+HR Rep: Hi, yes, how can I help you?
+
+AI Agent: I apologize, I'm having technical difficulties. Thank you for your time.
+
+HR Rep: Yes, we have two openings for senior software engineers.
+
+AI Agent: I apologize, I'm having technical difficulties. Thank you for your time.
+
+HR Rep: We're looking for candidates with 5+ years of experience in Python and React, and experience with cloud platforms.
+
+AI Agent: I apologize, I'm having technical difficulties. Thank you for your time.
+
+HR Rep: Candidates can apply through our careers page on our website, or send their resume to jobs@company.com.
+
+AI Agent: I apologize, I'm having technical difficulties. Thank you for your time.
+
+HR Rep: Thank you for calling. Have a great day!
+
+AI Agent: I apologize, I'm having technical difficulties. Thank you for your time.
+

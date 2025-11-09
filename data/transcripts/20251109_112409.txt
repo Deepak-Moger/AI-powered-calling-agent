@@ -1,0 +1,22 @@
+AI Agent: Hello, this is Alex, an AI assistant calling on behalf of a qualified candidate interested in learning about current job opportunities at your company. Would you have a moment to discuss any open positions?
+
+HR Rep: Hi, yes, how can I help you?
+
+AI Agent: Hi, this is Alex calling to inquire about any current job openings at your company. Would you be able to tell me what positions you're currently hiring for?
+
+HR Rep: Yes, we have two openings for senior software engineers.
+
+AI Agent: I'm specifically interested in software engineering roles. Could you tell me more about the requirements for these senior positions?
+
+HR Rep: We're looking for candidates with 5+ years of experience in Python and React, and experience with cloud platforms.
+
+AI Agent: Thanks for those details. I have experience with Python and React - could you tell me what kind of cloud platform experience you're specifically looking for?
+
+HR Rep: Candidates can apply through our careers page on our website, or send their resume to jobs@company.com.
+
+AI Agent: Thanks for the information. What's the best way to submit my application - should I apply through your website or send my resume directly to jobs@company.com?
+
+HR Rep: Thank you for calling. Have a great day!
+
+AI Agent: Thank you for taking my call and sharing those details. Have a great rest of your day!
+

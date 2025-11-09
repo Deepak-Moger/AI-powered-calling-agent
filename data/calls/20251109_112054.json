@@ -1,0 +1,55 @@
+{
+  "duration": 14.073247194290161,
+  "conversation": [
+    {
+      "role": "assistant",
+      "content": "I apologize, I'm having technical difficulties. Thank you for your time."
+    },
+    {
+      "role": "user",
+      "content": "Hi, yes, how can I help you?"
+    },
+    {
+      "role": "assistant",
+      "content": "I apologize, I'm having technical difficulties. Thank you for your time."
+    },
+    {
+      "role": "user",
+      "content": "Yes, we have two openings for senior software engineers."
+    },
+    {
+      "role": "assistant",
+      "content": "I apologize, I'm having technical difficulties. Thank you for your time."
+    },
+    {
+      "role": "user",
+      "content": "We're looking for candidates with 5+ years of experience in Python and React, and experience with cloud platforms."
+    },
+    {
+      "role": "assistant",
+      "content": "I apologize, I'm having technical difficulties. Thank you for your time."
+    },
+    {
+      "role": "user",
+      "content": "Candidates can apply through our careers page on our website, or send their resume to jobs@company.com."
+    },
+    {
+      "role": "assistant",
+      "content": "I apologize, I'm having technical difficulties. Thank you for your time."
+    },
+    {
+      "role": "user",
+      "content": "Thank you for calling. Have a great day!"
+    },
+    {
+      "role": "assistant",
+      "content": "I apologize, I'm having technical difficulties. Thank you for your time."
+    }
+  ],
+  "summary": "Error generating summary",
+  "stages_completed": 5,
+  "total_exchanges": 5,
+  "test_mode": true,
+  "call_id": "20251109_112054",
+  "timestamp": "2025-11-09T11:20:54.358257"
+}

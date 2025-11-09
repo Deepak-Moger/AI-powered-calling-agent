@@ -1,0 +1,55 @@
+{
+  "duration": 34.36881899833679,
+  "conversation": [
+    {
+      "role": "assistant",
+      "content": "Hello, this is Alex, an AI assistant calling on behalf of a qualified candidate interested in learning about current job opportunities at your company. Would you have a moment to discuss any open positions?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, yes, how can I help you?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi, this is Alex calling to inquire about any current job openings at your company. Would you be able to tell me what positions you're currently hiring for?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we have two openings for senior software engineers."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm specifically interested in software engineering roles. Could you tell me more about the requirements for these senior positions?"
+    },
+    {
+      "role": "user",
+      "content": "We're looking for candidates with 5+ years of experience in Python and React, and experience with cloud platforms."
+    },
+    {
+      "role": "assistant",
+      "content": "Thanks for those details. I have experience with Python and React - could you tell me what kind of cloud platform experience you're specifically looking for?"
+    },
+    {
+      "role": "user",
+      "content": "Candidates can apply through our careers page on our website, or send their resume to jobs@company.com."
+    },
+    {
+      "role": "assistant",
+      "content": "Thanks for the information. What's the best way to submit my application - should I apply through your website or send my resume directly to jobs@company.com?"
+    },
+    {
+      "role": "user",
+      "content": "Thank you for calling. Have a great day!"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for taking my call and sharing those details. Have a great rest of your day!"
+    }
+  ],
+  "summary": "Here's a structured summary of the conversation:\n\nKey Information Gathered:\n- Company currently has job openings in software engineering\n- Two positions available specifically for senior software engineers\n- Company has both a careers page and email submission process\n\nJob Availability Status:\n- 2 open positions for senior software engineers\n\nRequired Qualifications:\n- 5+ years of experience in Python and React\n- Experience with cloud platforms (specific platforms not specified)\n\nNext Steps:\n- Two application options provided:\n  * Apply through company careers page on website\n  * Send resume to jobs@company.com\n\nOverall Outcome:\n- Successfully obtained information about job openings and application process\n- HR representative provided basic requirements and application methods\n- Conversation ended professionally but HR representative did not specify preferred application method when directly asked\n- Some details (like salary, specific cloud platforms, or other benefits) were not discussed",
+  "stages_completed": 5,
+  "total_exchanges": 5,
+  "test_mode": true,
+  "call_id": "20251109_112409",
+  "timestamp": "2025-11-09T11:24:09.614389"
+}
